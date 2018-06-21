@@ -11,5 +11,6 @@ Var
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 Escreval("Olá Mundo!")
+Escreval("Meu primeiro algoritmo em VisualG")
 
 Fimalgoritmo
